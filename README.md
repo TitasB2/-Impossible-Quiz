@@ -1,1 +1,1 @@
-# -Impossible-Quiz
+# Impossible Quiz
